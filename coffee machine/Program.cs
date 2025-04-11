@@ -45,14 +45,6 @@ switch (choice)
         Console.Write("Enter drink size:");
         drink.size = int.Parse(Console.ReadLine());
 
-
-
-
-
-
-
-
-
         break;
 
 	case 8:
